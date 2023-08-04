@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bluesniffer
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning python and preparing for oscp
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python projects
 - 📫 reach out to me on discord @pikaachu
 
 <!---
