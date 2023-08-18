@@ -19,7 +19,7 @@
 
 ## Working on 🕵️‍♂️
 
-- 🔭 I’m currently working on **python automated projects for enumeration**
+- 🔭 I’m currently working on **python automated tools for enumeration**
 
 - 🌱 I’m currently learning **buffer overflows and active directory**
 
