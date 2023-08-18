@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parth Chopra</h1>
 <h3 align="center">I am a cyber security student, I love red teaming and python programming.</h3>
-<img align="right" alt="Coding" width="400" src"=https://gifer.com/en/3AyY">
+<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1292677%2Fscreenshots%2F6139167%2Favento.gif&f=1&nofb=1&ipt=3c3256e075c7fcb77599d279af04fc27f92dbc90af650fc5ea38d7c6dcdeb295&ipo=images">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluesniffer&label=Profile%20views&color=0e75b6&style=flat" alt="bluesniffer" /> </p>
 
