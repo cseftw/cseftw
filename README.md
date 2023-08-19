@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Chopra</h1>
 
+[![](header_.png)](#)
+
 ## About Me 🕵️‍♂️
 
 <h3 align="center">Hello there! I am a passionate Cybersecurity student with a keen interest in Red Teaming and CTF challenges. I love exploring various aspects of cybersecurity, analyzing vulnerabilities, and crafting creative solutions to secure systems. Here's an introduction to my cybersecurity journey, showcasing my passion, accomplishments, and projects.
