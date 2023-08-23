@@ -18,6 +18,11 @@
 - OSINT (Open Source Intelligence): I have a keen interest in gathering intelligence from publicly available sources to better understand potential threats and enhance cybersecurity measures.
 - Digital Investigation: I am intrigued by the process of investigating digital incidents and conducting forensic analysis to uncover evidence for security incidents.
 
+ ## My Journey 🚀
+
+I started my journey into the world of cybersecurity with a strong curiosity to understand how attackers think and how to defend against them. Through countless hours of learning, experimenting, and participating in various Capture The Flag (CTF) challenges, I've honed my skills and gained valuable experience.
+
+
 
 ## Working on 🕵️‍♂️
 
