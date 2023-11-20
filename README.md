@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto+mono&size=25&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bluesniffer;Linux+nerd+and+CTF+player)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto+mono&size=25&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bluesniffer;Wanna+be+Hacker)](https://git.io/typing-svg)
 [![](header_.png)](#)
 
 ## About Me 🕵️‍♂️
