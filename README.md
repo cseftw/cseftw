@@ -29,7 +29,7 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 
 - 🌱 I’m currently learning **buffer overflows and active directory**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bluesniffer](https://github.com/sudoboyy)
+- 👨‍💻 All of my projects are available at [https://github.com/sudoboyy](https://github.com/sudoboyy)
 
 ## TryHackMe Badge 🏅
 
