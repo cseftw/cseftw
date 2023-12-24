@@ -25,11 +25,11 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 
 ## Working on 🕵️‍♂️
 
-- 🔭 I’m currently working on **python automated tools for enumeration**
+- 🔭 I’m currently working on **Python automated tools for enumeration**
 
 - 🌱 I’m currently learning **buffer overflows and active directory**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bluesniffer](https://github.com/bluesniffer)
+- 👨‍💻 All of my projects are available at [https://github.com/bluesniffer](https://github.com/sudoboyy)
 
 ## TryHackMe Badge 🏅
 
